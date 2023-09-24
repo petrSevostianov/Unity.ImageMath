@@ -2,3 +2,8 @@
 /Library
 /Logs
 /Packages
+/.vs
+/obj
+/*.sln
+/*.csproj
+/.vsconfig
